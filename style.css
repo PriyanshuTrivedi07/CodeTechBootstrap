@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Oswald:wght@300&family=Poppins:ital,wght@1,300&family=Teko:wght@300&display=swap');
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Teko', sans-serif; */
+
+
+.navbar{
+    font-family: 'Montserrat', sans-serif;
+
+}
+.navbar-brand{
+    font-family: 'Teko', sans-serif;
+    letter-spacing: 5px;
+}
+.active{
+    color: white !important;
+    
+}
+h1,h2,h3{
+    font-family: 'Poppins', sans-serif;
+    text-shadow: 2px 5px 10px rgb(180, 177, 177);
+    color: black !important;
+}
+.btn{
+    box-shadow: 3px 5px 10px rgba(0, 0, 0, 0.281) , 5px 9px 20px rgba(0, 0, 0, 0.658);
+    border-radius: 1rem !important;
+}
+.modal-content{
+    box-shadow: 3px 5px 15px rgba(0, 0, 0, 0.281) , 5px 9px 25px rgba(0, 0, 0, 0.658);
+    
+}
+
